@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+    <string name="action_delete">Delete All Selfies</string>
+    <string name="action_camera">Take Selfie</string>
+</resources>
